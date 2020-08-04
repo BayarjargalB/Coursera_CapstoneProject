@@ -14,4 +14,4 @@ https://www.coursera.org/learn/applied-data-science-capstone/home/welcome
 
 ### Reflection
 This is a final project of a Professional Certificate. The main purpose is to extract informative knowledge by performing unsupervised analysis on data that was scraped from wikipedia and requested from Foursquare using request URL.
->>>>>>> 922efb20f81edb432a9540c0eaa95669001688e2
+
