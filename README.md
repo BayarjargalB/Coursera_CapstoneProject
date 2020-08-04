@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# 
-=======
 ### Project Title
 Neighborhoods' segmenting and clustering
 
