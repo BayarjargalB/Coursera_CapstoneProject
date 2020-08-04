@@ -3,10 +3,10 @@ Neighborhoods' segmenting and clustering
 
 ### Installation and Setup Instructions
 In order to communicate with Foursquare's database, few steps are needed to take:
-- create a developers account 
-- using your client ID request a permission to make the connection
+- create a developers account and obtain client ID
+- request a permission to make a connection
   Example: https://foursquare.com/oauth2/authenticate?client_id=YOUR_CLIENT_ID&response_type=code&redirect_uri=https://www.google.com
-- copy the ACCESS_TOKEN combination and define within the code
+- copy the ACCESS_TOKEN combination and define it within the code
 
 ### Credits
 Coursera, IBM Data Science, Capstone Project
